@@ -1,15 +1,16 @@
 #include<stdio.h>
-void display(); // Function prototype
+#include<conio.h>
+void display();
+int main()
+    {
+        int a;
+        printf("Initializing display function\n");
+        display();
+        printf("Display function finished its work\n");
+        return 0;
+    }
 
-int main(){
-    int a;
-    printf("Initializing display function\n");
-    display(); // Function Call
-    printf("Display function finished its work\n");
-    return 0;
-}
-
-// Function definition
-void display(){
-    printf("This is display\n"); 
-}
+void display()
+    {
+        printf("This is display\n"); 
+    }
