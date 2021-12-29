@@ -9,7 +9,6 @@ int main()
         printf("Display function finished its work\n");
         return 0;
     }
-
 void display()
     {
         printf("This is display\n"); 
