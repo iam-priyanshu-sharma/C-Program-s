@@ -1,8 +1,7 @@
 #include<stdio.h>
-
-int main(){
-    // char str[] = {'H', 'a', 'r', 'r', 'y', '\0'};
-    char str[] = "Harry";
-    
-    return 0;
-}
+#include<conio.h>
+int main()
+    {
+        char str[]="Harry";
+        return 0;
+    }

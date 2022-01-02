@@ -1,9 +1,9 @@
 #include<stdio.h>
-
-int main(){ 
-    char *ptr = "Harry Bhai";
-    // char ptr[] = "Harry Bhai";
-    ptr = "Shubham bhai";
-    printf("%s", ptr);
-    return 0;
-}
+#include<conio.h>
+int main()
+    { 
+        char *ptr="Harry Bhai";
+        ptr="Yash";
+        printf("%s",ptr);
+        return 0;
+    }
