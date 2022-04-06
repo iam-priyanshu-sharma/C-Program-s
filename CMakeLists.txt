@@ -6,6 +6,6 @@ enable_testing()
 
 add_library(VsCode VsCode.cpp)
 
-set(CPACK_PROJECT_NAME ${PROJECT_NAME})
-set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+set(CPACK_PROJECT_NAME ${PROJECT_NAME}) 
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION}) 
 include(CPack)
