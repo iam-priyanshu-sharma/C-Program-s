@@ -83,6 +83,12 @@ out/
 
 index.md
 
-OBJXREF.COM
+*.txt
 
 *.COM
+
+*.OVL
+
+*.MAK
+
+*.ini
