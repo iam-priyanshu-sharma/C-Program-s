@@ -70,3 +70,19 @@ dkms.conf
 # Ignore all local history of files
 .history
 .ionide
+
+.vs/
+
+.vscode/
+
+out/
+
+*.yml
+
+*.BAK
+
+index.md
+
+OBJXREF.COM
+
+*.COM
